@@ -1,0 +1,28 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h3{
+	margin-left: 20px;
+	padding: 2px;
+}
+
+#canvas {
+	border:  3px solid navy;
+	margin: 20px;
+	padding: 5px;
+}
+
+#clear {
+	margin: 20px;
+	padding: 5px;
+	background-color: navy;
+	color:rgba(245, 245, 245, 0.925);
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
